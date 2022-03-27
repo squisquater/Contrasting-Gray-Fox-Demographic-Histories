@@ -60,4 +60,4 @@
 | SantaRosa_2008 | U. littoralis | Channel Island Fox | Robinson et al. (2018) |
 
 
-
+*Samples with admixed ancestry  
