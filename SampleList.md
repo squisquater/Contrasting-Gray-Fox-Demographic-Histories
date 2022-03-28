@@ -61,6 +61,6 @@
 
 * Indicates samples with admixed ancestry  
 
-All raw sequences from this study will be available for download from the NCBI Sequence Read Archive upon publication of the manuscript. 
-All raw sequence reads from the Robinson et al. (2016) and Robinson et al. (2018) publications can be found under the BioProjects PRJNA312115 and PRJNA478450 respectively. 
+All raw sequences from this study will be available for download from the NCBI Sequence Read Archive upon publication of the manuscript.  
+All raw sequence reads from the Robinson et al. (2016) and Robinson et al. (2018) publications can be found under the BioProjects PRJNA312115 and PRJNA478450 respectively.  
 † Note this sample was present within the same BioProject (PRJNA312115) as samples from Robinson et al. (2016) but was not included in the publication analyses. 
