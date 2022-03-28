@@ -49,7 +49,7 @@
 | SMI15F | U. littoralis | Channel Island Fox | Robinson et al. (2016) |
 | SNI05F | U. littoralis | Channel Island Fox | Robinson et al. (2016) |
 | SNI41F | U. littoralis | Channel Island Fox | Robinson et al. (2016) |
-| SRO40F | U. littoralis | Channel Island Fox | Robinson et al. (2016) |
+| SRO40F^† | U. littoralis | Channel Island Fox | Robinson et al. (2016) |
 | SanClemente_2009 | U. littoralis | Channel Island Fox | Robinson et al. (2018) |
 | SanMiguel_2008 | U. littoralis | Channel Island Fox | Robinson et al. (2018) |
 | SanNicolas_1929_SE | U. littoralis | Channel Island Fox | Robinson et al. (2018) |
