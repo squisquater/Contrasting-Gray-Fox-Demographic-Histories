@@ -11,19 +11,20 @@ Contrasting Demographic Histories of Eastern and Western Gray Fox Lineages using
 * Subset X-Chromosome and Autosomes [Subset_Autosomes.sh] & [Subset_XChr.sh] (Note that you will need to re-index afterwards. See [Index_Autosomes.sh] & [Index_XChr.sh])
 * Calculate read depth across samples [ReadDepth.sh]
 
-## Downsample high coverage genomes
-* To test the effects of coverage on estimates of heterozygosity (mlRho) and demographic trajectories (PSMC), downsample high coverage genomes from both the mainland (n=2) and island (n=6) fox populations. [Downsample.sh]
+## Range Wide Population Structure
 
-## Estimate individual level heterozygosity using WGS data (mlRho)
-*
-
-## SNP Calling
+### SNP Calling
 * Genotype Likelihoods (angsd)
 
 ## Demographic History
 
-### Heterozygosity
+### Test impacts of WGS coverage on demographic inference
+* Downsample Genomes from both the mainland (n=2) and island (n=6) fox populations to test the effects of coverage on estimates of heterozygosity (mlRho) and demographic trajectories (PSMC)[Downsample.sh]
 
-### PSMC
+### Estimate individual level heterozygosity using WGS data (mlRho)
 
-### SFS
+### Infer demographic trajectories using WGS data (PSMC)
+
+### Site Frequency Spectrum (SFS) using GBS data
+
+
