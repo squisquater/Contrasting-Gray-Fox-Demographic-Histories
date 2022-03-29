@@ -42,23 +42,23 @@
 | S19_3072 | U. cinereoargenteus | West* | | | This Study |
 | S19_3075 | U. cinereoargenteus | West* | | | This Study |
 | S19_3084 | U. cinereoargenteus | West* | | | This Study |
-| S19_3098 | U. cinereoargenteus | West* | | This Study |
-| Z01_0174 | U. littoralis | Santa Cruz | | 4.86x [ ] | This Study |
-| SCA16F | U. littoralis | Santa Catalina | | 13.8x [11.83x] | Robinson et al. (2016) |
-| SCLV4F | U. littoralis | San Clemente | | 20.07x [18.44x] | Robinson et al. (2016) |
-| SCZ05M | U. littoralis | Santa Cruz | | 15.83x [7.89x] | Robinson et al. (2016) |
-| SMI15F | U. littoralis | San Miguel | | 24.95x [20.93x] | Robinson et al. (2016) |
-| SNI05F | U. littoralis | San Nicolas | | 10.16x [9.4x] | Robinson et al. (2016) |
-| SNI41F | U. littoralis | San Nicolas | | 14.32x [13.26x] | Robinson et al. (2016) |
-| SRO40F† | U. littoralis | Santa Rosa | | 13.21x [12.32x] | Robinson et al. (2016) |
-| SanClemente_2009 | U. littoralis | San Clemente | | 20.01x [18.56x] | Robinson et al. (2018) |
-| SanMiguel_2008 | U. littoralis | San Miguel | | 23.58x [11.42x] | Robinson et al. (2018) |
-| SanNicolas_1929_SE | U. littoralis | San Nicolas | | 15.83x [14.14x] | Robinson et al. (2018) |
-| SanNicolas_2000 | U. littoralis | San Nicolas | | 22.92x [11.53x] | Robinson et al. (2018) |
-| SantaCatalina_2005 | U. littoralis | Santa Catalina | | 24.14x [11.80x] | Robinson et al. (2018) |
-| SantaCruz_2008 | U. littoralis | Santa Cruz | | 23.0x [21.07x] | Robinson et al. (2018) |
-| SantaRosa_1988 | U. littoralis | Santa Rosa | | 21.81x [19.36x]| Robinson et al. (2018) |
-| SantaRosa_2008 | U. littoralis | Santa Rosa | | 24.58x [12.08x] | Robinson et al. (2018) |
+| S19_3098 | U. cinereoargenteus | West* | | | This Study |
+| Z01_0174 | U. littoralis | Santa Cruz | 2001 | 4.86x [ ] | This Study |
+| SCA16F | U. littoralis | Santa Catalina |1988 | 13.8x [11.83x] | Robinson et al. (2016) |
+| SCLV4F | U. littoralis | San Clemente | 1988 | 20.07x [18.44x] | Robinson et al. (2016) |
+| SCZ05M | U. littoralis | Santa Cruz | 1988 | 15.83x [7.89x] | Robinson et al. (2016) |
+| SMI15F | U. littoralis | San Miguel | 1988 | 24.95x [20.93x] | Robinson et al. (2016) |
+| SNI05F | U. littoralis | San Nicolas | 1988 | 10.16x [9.4x] | Robinson et al. (2016) |
+| SNI41F | U. littoralis | San Nicolas | 1988 | 14.32x [13.26x] | Robinson et al. (2016) |
+| SRO40F† | U. littoralis | Santa Rosa | 1988 | 13.21x [12.32x] | Robinson et al. (2016) |
+| SanClemente_2009 | U. littoralis | San Clemente | 2009 | 20.01x [18.56x] | Robinson et al. (2018) |
+| SanMiguel_2008 | U. littoralis | San Miguel | 2008 | 23.58x [11.42x] | Robinson et al. (2018) |
+| SanNicolas_1929_SE | U. littoralis | San Nicolas | 1929 | 15.83x [14.14x] | Robinson et al. (2018) |
+| SanNicolas_2000 | U. littoralis | San Nicolas |2000 | 22.92x [11.53x] | Robinson et al. (2018) |
+| SantaCatalina_2005 | U. littoralis | Santa Catalina | 2005 | 24.14x [11.80x] | Robinson et al. (2018) |
+| SantaCruz_2008 | U. littoralis | Santa Cruz | 2008 | 23.0x [21.07x] | Robinson et al. (2018) |
+| SantaRosa_1988 | U. littoralis | Santa Rosa | 1988 | 21.81x [19.36x]| Robinson et al. (2018) |
+| SantaRosa_2008 | U. littoralis | Santa Rosa | 2008 | 24.58x [12.08x] | Robinson et al. (2018) |
 
 Samples with an * indicate they have admixed ancestry  
 
