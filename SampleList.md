@@ -1,4 +1,4 @@
-| Sample ID | Species | Geographic Region | Coverage (autosomes [Xchr] | Source |
+| Sample ID | Species | Geographic Region | Coverage (autosomes [Xchr]) | Source |
 | --------- | ------- | ----------------- | -------- | ------ |
 | S19_4623 | U. cinereoargenteus | East | | This Study |
 | S19_4625 | U. cinereoargenteus | East | | This Study |
