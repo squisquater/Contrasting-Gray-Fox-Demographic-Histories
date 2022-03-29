@@ -53,11 +53,11 @@
 | SanClemente_2009 | U. littoralis | Channel Islands | 20.01x/18.56x | Robinson et al. (2018) |
 | SanMiguel_2008 | U. littoralis | Channel Islands | 23.58x/11.42x | Robinson et al. (2018) |
 | SanNicolas_1929_SE | U. littoralis | Channel Islands | 15.83x/14.14x | Robinson et al. (2018) |
-| SanNicolas_2000 | U. littoralis | Channel Islands | | Robinson et al. (2018) |
-| SantaCatalina_2005 | U. littoralis | Channel Islands | | Robinson et al. (2018) |
-| SantaCruz_2008 | U. littoralis | Channel Islands | | Robinson et al. (2018) |
-| SantaRosa_1988 | U. littoralis | Channel Islands | | Robinson et al. (2018) |
-| SantaRosa_2008 | U. littoralis | Channel Islands | | Robinson et al. (2018) |
+| SanNicolas_2000 | U. littoralis | Channel Islands | 22.92x/11.53x | Robinson et al. (2018) |
+| SantaCatalina_2005 | U. littoralis | Channel Islands | 24.14x/11.80x | Robinson et al. (2018) |
+| SantaCruz_2008 | U. littoralis | Channel Islands | 23.0x/21.07x | Robinson et al. (2018) |
+| SantaRosa_1988 | U. littoralis | Channel Islands | 21.81x/19.36x| Robinson et al. (2018) |
+| SantaRosa_2008 | U. littoralis | Channel Islands | 24.58x/12.08x | Robinson et al. (2018) |
 
 Samples with an * indicate they have admixed ancestry  
 
