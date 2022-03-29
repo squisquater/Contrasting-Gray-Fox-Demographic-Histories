@@ -43,21 +43,21 @@
 | S19_3075 | U. cinereoargenteus | West* | | This Study |
 | S19_3084 | U. cinereoargenteus | West* | | This Study |
 | S19_3098 | U. cinereoargenteus | West* | | This Study |
-| SCA16F | U. littoralis | Channel Island Fox | | Robinson et al. (2016) |
-| SCLV4F | U. littoralis | Channel Island Fox | | Robinson et al. (2016) |
-| SCZ05M | U. littoralis | Channel Island Fox | | Robinson et al. (2016) |
-| SMI15F | U. littoralis | Channel Island Fox | | Robinson et al. (2016) |
-| SNI05F | U. littoralis | Channel Island Fox | | Robinson et al. (2016) |
-| SNI41F | U. littoralis | Channel Island Fox | | Robinson et al. (2016) |
-| SRO40F† | U. littoralis | Channel Island Fox | | Robinson et al. (2016) |
-| SanClemente_2009 | U. littoralis | Channel Island Fox | 20.01x/18.56x | Robinson et al. (2018) |
-| SanMiguel_2008 | U. littoralis | Channel Island Fox | 23.58x/11.42x | Robinson et al. (2018) |
-| SanNicolas_1929_SE | U. littoralis | Channel Island Fox | 15.83x/14.14x | Robinson et al. (2018) |
-| SanNicolas_2000 | U. littoralis | Channel Island Fox | | Robinson et al. (2018) |
-| SantaCatalina_2005 | U. littoralis | Channel Island Fox | | Robinson et al. (2018) |
-| SantaCruz_2008 | U. littoralis | Channel Island Fox | | Robinson et al. (2018) |
-| SantaRosa_1988 | U. littoralis | Channel Island Fox | | Robinson et al. (2018) |
-| SantaRosa_2008 | U. littoralis | Channel Island Fox | | Robinson et al. (2018) |
+| SCA16F | U. littoralis | Channel Islands | | Robinson et al. (2016) |
+| SCLV4F | U. littoralis | Channel Islands | | Robinson et al. (2016) |
+| SCZ05M | U. littoralis | Channel Islands  | | Robinson et al. (2016) |
+| SMI15F | U. littoralis | Channel Islands | | Robinson et al. (2016) |
+| SNI05F | U. littoralis | Channel Islands | | Robinson et al. (2016) |
+| SNI41F | U. littoralis | Channel Islands | | Robinson et al. (2016) |
+| SRO40F† | U. littoralis | Channel Islands | | Robinson et al. (2016) |
+| SanClemente_2009 | U. littoralis | Channel Islands | 20.01x/18.56x | Robinson et al. (2018) |
+| SanMiguel_2008 | U. littoralis | Channel Islands | 23.58x/11.42x | Robinson et al. (2018) |
+| SanNicolas_1929_SE | U. littoralis | Channel Islands | 15.83x/14.14x | Robinson et al. (2018) |
+| SanNicolas_2000 | U. littoralis | Channel Islands | | Robinson et al. (2018) |
+| SantaCatalina_2005 | U. littoralis | Channel Islands | | Robinson et al. (2018) |
+| SantaCruz_2008 | U. littoralis | Channel Islands | | Robinson et al. (2018) |
+| SantaRosa_1988 | U. littoralis | Channel Islands | | Robinson et al. (2018) |
+| SantaRosa_2008 | U. littoralis | Channel Islands | | Robinson et al. (2018) |
 
 Samples with an * indicate they have admixed ancestry  
 
