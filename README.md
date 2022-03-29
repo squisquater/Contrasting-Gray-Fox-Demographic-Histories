@@ -25,6 +25,8 @@ Contrasting Demographic Histories of Eastern and Western Gray Fox Lineages using
 
 ### Infer demographic trajectories using WGS data (PSMC)
 
+### Estimate end of gene flow between populations (hPSMC)
+
 ### Site Frequency Spectrum (SFS) using GBS data
 
 
