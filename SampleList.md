@@ -1,64 +1,64 @@
-| Sample ID | Species | Geographic Region | Coverage (autosomes [Xchr]) | Source |
-| --------- | ------- | ----------------- | -------- | ------ |
-| S19_4623 | U. cinereoargenteus | East | | This Study |
-| S19_4625 | U. cinereoargenteus | East | | This Study |
-| S19_4626 | U. cinereoargenteus | East | | This Study |
-| S19_4628 | U. cinereoargenteus | East | | This Study |
-| S19_4639 | U. cinereoargenteus | East | | This Study |
-| S19_4642 | U. cinereoargenteus | East | | This Study |
-| S19_4663 | U. cinereoargenteus | East | | This Study |
-| S19_4699 | U. cinereoargenteus | East | | This Study |
-| S19_4701 | U. cinereoargenteus | East | | This Study |
-| S19_4703 | U. cinereoargenteus | East | | This Study |
-| S19_4710 | U. cinereoargenteus | East | | This Study |
-| S19_4714 | U. cinereoargenteus | East | | This Study |
-| S19_4737 | U. cinereoargenteus | East | | This Study |
-| S19_6655 | U. cinereoargenteus | East | | This Study |
-| S19_3074 | U. cinereoargenteus | East* | | This Study |
-| S19_4685 | U. cinereoargenteus | East* | | This Study |
-| S19_4692 | U. cinereoargenteus | East* | | This Study |
-| S19_4695 | U. cinereoargenteus | East* | | This Study |
-| S19_4698 | U. cinereoargenteus | East* | | This Study |
-| S19_4702 | U. cinereoargenteus | East* | | This Study |
-| GF041F | U. cinereoargenteus | West | 18.25x/16.65x | Robinson et al. (2016) |
-| GOGANRA_NPS_GF30 | U. cinereoargenteus | West | 20.96x/10.26x | Robinson et al. (2018) |
-| S19_2949 | U. cinereoargenteus | West | | This Study |
-| S19_2925 | U. cinereoargenteus | West | | This Study |
-| S19_2974 | U. cinereoargenteus | West | | This Study |
-| S19_3064 | U. cinereoargenteus | West | | This Study |
-| S19_3066 | U. cinereoargenteus | West | | This Study |
-| S19_3133 | U. cinereoargenteus | West | | This Study |
-| S19_3152 | U. cinereoargenteus | West | | This Study |
-| S19_4675 | U. cinereoargenteus | West | | This Study |
-| S19_4679 | U. cinereoargenteus | West | | This Study |
-| S19_4715 | U. cinereoargenteus | West | | This Study |
-| S19_4717 | U. cinereoargenteus | West | | This Study |
-| S19_4728 | U. cinereoargenteus | West | | This Study |
-| S19_2940 | U. cinereoargenteus | West* | | This Study |
-| S19_2977 | U. cinereoargenteus | West* | | This Study |
-| S19_2992 | U. cinereoargenteus | West* | | This Study |
-| S19_3050 | U. cinereoargenteus | West* | | This Study |
-| S19_3061 | U. cinereoargenteus | West* | | This Study |
-| S19_3072 | U. cinereoargenteus | West* | | This Study |
-| S19_3075 | U. cinereoargenteus | West* | | This Study |
-| S19_3084 | U. cinereoargenteus | West* | | This Study |
+| Sample ID | Species | Geographic Region | Date | Coverage (autosomes [Xchr]) | Source |
+| --------- | ------- | ----------------- | ---- | -------- | ------ |
+| S19_4623 | U. cinereoargenteus | East | | | This Study |
+| S19_4625 | U. cinereoargenteus | East | | | This Study |
+| S19_4626 | U. cinereoargenteus | East | | | This Study |
+| S19_4628 | U. cinereoargenteus | East | | | This Study |
+| S19_4639 | U. cinereoargenteus | East | | | This Study |
+| S19_4642 | U. cinereoargenteus | East | | | This Study |
+| S19_4663 | U. cinereoargenteus | East | | | This Study |
+| S19_4699 | U. cinereoargenteus | East | | | This Study |
+| S19_4701 | U. cinereoargenteus | East | | | This Study |
+| S19_4703 | U. cinereoargenteus | East | | | This Study |
+| S19_4710 | U. cinereoargenteus | East | | | This Study |
+| S19_4714 | U. cinereoargenteus | East | | | This Study |
+| S19_4737 | U. cinereoargenteus | East | | | This Study |
+| S19_6655 | U. cinereoargenteus | East | | | This Study |
+| S19_3074 | U. cinereoargenteus | East* | | | This Study |
+| S19_4685 | U. cinereoargenteus | East* | | | This Study |
+| S19_4692 | U. cinereoargenteus | East* | | | This Study |
+| S19_4695 | U. cinereoargenteus | East* | | | This Study |
+| S19_4698 | U. cinereoargenteus | East* | | | This Study |
+| S19_4702 | U. cinereoargenteus | East* | | | This Study |
+| GF041F | U. cinereoargenteus | West | | 18.25x/16.65x | Robinson et al. (2016) |
+| GOGANRA_NPS_GF30 | U. cinereoargenteus | West | | 20.96x/10.26x | Robinson et al. (2018) |
+| S19_2949 | U. cinereoargenteus | West | | | This Study |
+| S19_2925 | U. cinereoargenteus | West | | | This Study |
+| S19_2974 | U. cinereoargenteus | West | | | This Study |
+| S19_3064 | U. cinereoargenteus | West | | | This Study |
+| S19_3066 | U. cinereoargenteus | West | | | This Study |
+| S19_3133 | U. cinereoargenteus | West | | | This Study |
+| S19_3152 | U. cinereoargenteus | West | | | This Study |
+| S19_4675 | U. cinereoargenteus | West | | | This Study |
+| S19_4679 | U. cinereoargenteus | West | | | This Study |
+| S19_4715 | U. cinereoargenteus | West | | | This Study |
+| S19_4717 | U. cinereoargenteus | West | | | This Study |
+| S19_4728 | U. cinereoargenteus | West | | | This Study |
+| S19_2940 | U. cinereoargenteus | West* | | | This Study |
+| S19_2977 | U. cinereoargenteus | West* | | | This Study |
+| S19_2992 | U. cinereoargenteus | West* | | | This Study |
+| S19_3050 | U. cinereoargenteus | West* | | | This Study |
+| S19_3061 | U. cinereoargenteus | West* | | | This Study |
+| S19_3072 | U. cinereoargenteus | West* | | | This Study |
+| S19_3075 | U. cinereoargenteus | West* | | | This Study |
+| S19_3084 | U. cinereoargenteus | West* | | | This Study |
 | S19_3098 | U. cinereoargenteus | West* | | This Study |
-| Z01_0174 | U. littoralis | Channel Islands | 4.86x [ ] | This Study |
-| SCA16F | U. littoralis | Channel Islands | 13.8x [11.83x] | Robinson et al. (2016) |
-| SCLV4F | U. littoralis | Channel Islands | 20.07x [18.44x] | Robinson et al. (2016) |
-| SCZ05M | U. littoralis | Channel Islands  | 15.83x [7.89x] | Robinson et al. (2016) |
-| SMI15F | U. littoralis | Channel Islands | 24.95x [20.93x] | Robinson et al. (2016) |
-| SNI05F | U. littoralis | Channel Islands | 10.16x [9.4x] | Robinson et al. (2016) |
-| SNI41F | U. littoralis | Channel Islands | 14.32x [13.26x] | Robinson et al. (2016) |
-| SRO40F† | U. littoralis | Channel Islands | 13.21x [12.32x] | Robinson et al. (2016) |
-| SanClemente_2009 | U. littoralis | Channel Islands | 20.01x [18.56x] | Robinson et al. (2018) |
-| SanMiguel_2008 | U. littoralis | Channel Islands | 23.58x [11.42x] | Robinson et al. (2018) |
-| SanNicolas_1929_SE | U. littoralis | Channel Islands | 15.83x [14.14x] | Robinson et al. (2018) |
-| SanNicolas_2000 | U. littoralis | Channel Islands | 22.92x [11.53x] | Robinson et al. (2018) |
-| SantaCatalina_2005 | U. littoralis | Channel Islands | 24.14x [11.80x] | Robinson et al. (2018) |
-| SantaCruz_2008 | U. littoralis | Channel Islands | 23.0x [21.07x] | Robinson et al. (2018) |
-| SantaRosa_1988 | U. littoralis | Channel Islands | 21.81x [19.36x]| Robinson et al. (2018) |
-| SantaRosa_2008 | U. littoralis | Channel Islands | 24.58x [12.08x] | Robinson et al. (2018) |
+| Z01_0174 | U. littoralis | Santa Cruz | | 4.86x [ ] | This Study |
+| SCA16F | U. littoralis | Santa Catalina | | 13.8x [11.83x] | Robinson et al. (2016) |
+| SCLV4F | U. littoralis | San Clemente | | 20.07x [18.44x] | Robinson et al. (2016) |
+| SCZ05M | U. littoralis | Santa Cruz | | 15.83x [7.89x] | Robinson et al. (2016) |
+| SMI15F | U. littoralis | San Miguel | | 24.95x [20.93x] | Robinson et al. (2016) |
+| SNI05F | U. littoralis | San Nicolas | | 10.16x [9.4x] | Robinson et al. (2016) |
+| SNI41F | U. littoralis | San Nicolas | | 14.32x [13.26x] | Robinson et al. (2016) |
+| SRO40F† | U. littoralis | Santa Rosa | | 13.21x [12.32x] | Robinson et al. (2016) |
+| SanClemente_2009 | U. littoralis | San Clemente | | 20.01x [18.56x] | Robinson et al. (2018) |
+| SanMiguel_2008 | U. littoralis | San Miguel | | 23.58x [11.42x] | Robinson et al. (2018) |
+| SanNicolas_1929_SE | U. littoralis | San Nicolas | | 15.83x [14.14x] | Robinson et al. (2018) |
+| SanNicolas_2000 | U. littoralis | San Nicolas | | 22.92x [11.53x] | Robinson et al. (2018) |
+| SantaCatalina_2005 | U. littoralis | Santa Catalina | | 24.14x [11.80x] | Robinson et al. (2018) |
+| SantaCruz_2008 | U. littoralis | Santa Cruz | | 23.0x [21.07x] | Robinson et al. (2018) |
+| SantaRosa_1988 | U. littoralis | Santa Rosa | | 21.81x [19.36x]| Robinson et al. (2018) |
+| SantaRosa_2008 | U. littoralis | Santa Rosa | | 24.58x [12.08x] | Robinson et al. (2018) |
 
 Samples with an * indicate they have admixed ancestry  
 
