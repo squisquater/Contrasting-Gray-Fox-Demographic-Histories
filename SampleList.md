@@ -20,8 +20,8 @@
 | S19_4695 | U. cinereoargenteus | East* | | This Study |
 | S19_4698 | U. cinereoargenteus | East* | | This Study |
 | S19_4702 | U. cinereoargenteus | East* | | This Study |
-| GF041F | U. cinereoargenteus | West | | Robinson et al. (2016) |
-| GOGANRA_NPS_GF30 | U. cinereoargenteus | West | | Robinson et al. (2018) |
+| GF041F | U. cinereoargenteus | West | 18.25x/16.65x | Robinson et al. (2016) |
+| GOGANRA_NPS_GF30 | U. cinereoargenteus | West | 20.96x/10.26x | Robinson et al. (2018) |
 | S19_2949 | U. cinereoargenteus | West | | This Study |
 | S19_2925 | U. cinereoargenteus | West | | This Study |
 | S19_2974 | U. cinereoargenteus | West | | This Study |
