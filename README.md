@@ -12,7 +12,7 @@ Contrasting Demographic Histories of Eastern and Western Gray Fox Lineages using
 * Calculate read depth across samples [ReadDepth.sh]
 
 ## Downsample high coverage genomes
-* To test the effects of coverage on estimates of heterozygosity and demographic trajectories (PSMC), downsample high coverage genomes from both the mainland (n=2) and island (n=2) fox populations. [Downsample.sh]
+* To test the effects of coverage on estimates of heterozygosity (mlRho) and demographic trajectories (PSMC), downsample high coverage genomes from both the mainland (n=2) and island (n=6) fox populations. [Downsample.sh]
 
 ## Estimate individual level heterozygosity using WGS data (mlRho)
 *
