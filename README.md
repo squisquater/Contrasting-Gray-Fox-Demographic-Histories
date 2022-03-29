@@ -19,7 +19,7 @@ Contrasting Demographic Histories of Eastern and Western Gray Fox Lineages using
 ## Demographic History
 
 ### Test impacts of WGS coverage on demographic inference
-* Downsample Genomes from both the mainland (n=2) and island (n=6) fox populations to test the effects of coverage on estimates of heterozygosity (mlRho) and demographic trajectories (PSMC)[Downsample.sh]
+* Downsample genomes from both the mainland (n=2) and island (n=6) fox populations to test the effects of coverage on estimates of heterozygosity (mlRho) and demographic trajectories (PSMC)[Downsample.sh]
 
 ### Estimate individual level heterozygosity using WGS data (mlRho)
 
