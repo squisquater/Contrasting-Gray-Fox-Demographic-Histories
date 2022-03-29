@@ -43,13 +43,13 @@
 | S19_3075 | U. cinereoargenteus | West* | | This Study |
 | S19_3084 | U. cinereoargenteus | West* | | This Study |
 | S19_3098 | U. cinereoargenteus | West* | | This Study |
-| SCA16F | U. littoralis | Channel Islands | | Robinson et al. (2016) |
-| SCLV4F | U. littoralis | Channel Islands | | Robinson et al. (2016) |
-| SCZ05M | U. littoralis | Channel Islands  | | Robinson et al. (2016) |
-| SMI15F | U. littoralis | Channel Islands | | Robinson et al. (2016) |
-| SNI05F | U. littoralis | Channel Islands | | Robinson et al. (2016) |
-| SNI41F | U. littoralis | Channel Islands | | Robinson et al. (2016) |
-| SRO40F† | U. littoralis | Channel Islands | | Robinson et al. (2016) |
+| SCA16F | U. littoralis | Channel Islands | 13.8x/11.83x | Robinson et al. (2016) |
+| SCLV4F | U. littoralis | Channel Islands | 20.07x/18.44x | Robinson et al. (2016) |
+| SCZ05M | U. littoralis | Channel Islands  | 15.83x/7.89x | Robinson et al. (2016) |
+| SMI15F | U. littoralis | Channel Islands | 24.95x/20.93x | Robinson et al. (2016) |
+| SNI05F | U. littoralis | Channel Islands | 10.16x/9.4x | Robinson et al. (2016) |
+| SNI41F | U. littoralis | Channel Islands | 14.32x/13.26x | Robinson et al. (2016) |
+| SRO40F† | U. littoralis | Channel Islands | 13.21x/12.32x| Robinson et al. (2016) |
 | SanClemente_2009 | U. littoralis | Channel Islands | 20.01x/18.56x | Robinson et al. (2018) |
 | SanMiguel_2008 | U. littoralis | Channel Islands | 23.58x/11.42x | Robinson et al. (2018) |
 | SanNicolas_1929_SE | U. littoralis | Channel Islands | 15.83x/14.14x | Robinson et al. (2018) |
