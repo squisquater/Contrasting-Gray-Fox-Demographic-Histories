@@ -1,8 +1,8 @@
-| Sample ID | Species | Geographic Region | Source |
+| Sample ID | Species | Geographic Region | | Coverage | Source |
 | --------- | ------- | ----------------- | ------ |
-| S19_4623 | U. cinereoargenteus | East | This Study |
-| S19_4625 | U. cinereoargenteus | East | This Study |
-| S19_4626 | U. cinereoargenteus | East | This Study |
+| S19_4623 | U. cinereoargenteus | East | | This Study |
+| S19_4625 | U. cinereoargenteus | East | | This Study |
+| S19_4626 | U. cinereoargenteus | East | | This Study |
 | S19_4628 | U. cinereoargenteus | East | This Study |
 | S19_4639 | U. cinereoargenteus | East | This Study |
 | S19_4642 | U. cinereoargenteus | East | This Study |
