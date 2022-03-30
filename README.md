@@ -25,6 +25,7 @@ Contrasting Demographic Histories of Eastern and Western Gray Fox Lineages using
 * Apply False Negative Rate (FNR) corrections until downsampled genomes match high coverage genomes. 
 
 ### Estimate individual level heterozygosity using WGS data (mlRho)
+* [mlRho.sh]
 
 ### Infer demographic trajectories using WGS data (PSMC)
 * Convert bam files to fastq files [bam2fq_autosomes.sh]
