@@ -23,3 +23,11 @@ samtools mpileup -Q 30 -q 30 -u -v -f ~/Reference_Genomes/canFam3_withY.fa ${BAM
 bcftools call -c |  
 vcfutils.pl vcf2fq -d ${MIN_DEPTH} -D ${MAX_DEPTH} -Q 30 | gzip > ~/GrayFoxWGS/GrayFox1/angsd/PSMC/final_fqfiles/${SAMPLE}.fq.gz
 
+
+##bamlist_depth.txt is a file with 5 columns where:
+##column = sampleID
+##column 2 = path to the .bam file
+##column 3 = mean depth (not used in this script)
+##column 4 = mean depth / 2 (not used in this script)
+##column 5 = mean depth * 2
+
