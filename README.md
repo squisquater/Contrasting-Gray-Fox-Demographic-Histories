@@ -1,6 +1,7 @@
 # Contrasting-Gray-Fox-Demographic-Histories
 Contrasting Demographic Histories of Eastern and Western Gray Fox Lineages using Whole Genome and Reduced Representation (GBS) Sequencing
 
+Population genomics reveals distinct demographic histories among extant gray fox lineages in North America
 ## **Sample Info**
 * [WGS-SampleList.md](https://github.com/squisquater/Contrasting-Gray-Fox-Demographic-Histories/blob/main/WGS-SampleList.md)
 * [GBS-SampleList.md](https://github.com/squisquater/Contrasting-Gray-Fox-Demographic-Histories/blob/main/GBS-SampleList.md)
