@@ -1,4 +1,4 @@
-| Sample ID | Species             | Geographic Region | State/Locality        | Lat        | Long        | Mean Coverage | Source                    |
+| Sample ID | Species             | Region            | State                 | Lat        | Long        | Mean Coverage | Source                    |
 | --------- | ------------------- | ----------------- | --------------------- | ---------- | ----------- | ------------- | ------------------------- |
 | S19-4663  | U. cinereoargenteus | East              | Alabama               | 32.2475911 | \-87.791091 | 31            | Kierepka et al. in review |
 | S19-4664  | U. cinereoargenteus | East              | Alabama               | 32.2475911 | \-87.791091 | 12            | Kierepka et al. in review |
