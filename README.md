@@ -1,8 +1,9 @@
 # Contrasting-Gray-Fox-Demographic-Histories
-Contrasting Demographic Histories of Eastern and Western Gray Fox Lineages using Reduced Representation (GBS) and Whole Genome Sequencing
+Contrasting Demographic Histories of Eastern and Western Gray Fox Lineages using Whole Genome and Reduced Representation (GBS) Sequencing
 
 ## **Sample Info**
-* [SampleList.md]
+* [WGS-SampleList.md](https://github.com/squisquater/Contrasting-Gray-Fox-Demographic-Histories/blob/main/WGS-SampleList.md)
+* [GBS-SampleList.md](https://github.com/squisquater/Contrasting-Gray-Fox-Demographic-Histories/blob/main/GBS-SampleList.md)
 
 ## **Data Processing**
 * Trim reads [Trim.sh]
