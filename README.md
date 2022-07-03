@@ -42,5 +42,5 @@ Population genomics reveals distinct demographic histories among extant gray fox
 ## Contemporary patterns of diversity (*Heterozygosity*)
 * Calculate mean read depth for all gray fox GBS samples (n = 194) ([GBS-ReadDepth.sh]
 * Make a bamlist file for every sample (not a single bamlist with all bamfiles listed)
-* Make an InfoFile.txt with several columns (SampleID, bamlist.txt, meandepth, meandepth*0.5, meandepth*2.5)
+* Make an InfoFile.txt with several columns (SampleID, bamlist.txt, meandepth, meandepth x 0.5, meandepth x 2.5)
 
