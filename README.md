@@ -13,10 +13,8 @@ Population genomics reveals distinct demographic histories among extant gray fox
 * Subset X-Chromosome and Autosomes [Subset_Autosomes.sh] & [Subset_XChr.sh] (Note that you will need to re-index afterwards. See [Index_Autosomes.sh] & [Index_XChr.sh])
 * Calculate mean read depth across samples [WGS-ReadDepth.sh]
 
-## Range Wide Population Structure
-
-### SNP Calling
-* Genotype Likelihoods (angsd)
+## SNP Calling for GBS Data
+* See (Kierepka et al. (in review))[https://github.com/squisquater/Cryptic-Gray-Fox-Lineages-Secondary-Contact]
 
 ## Demographic History
 
@@ -34,13 +32,30 @@ Population genomics reveals distinct demographic histories among extant gray fox
 * Fit a model to these values and apply this model to existing low coverage data. 
 
 ### Infer more recent demographic trajectories using the Site Frequency Spectrum derived from GBS Data (*Stairwayplot*)
+* Generate and ancestral fasta file
 * Calculate mean read depth for all gray fox GBS samples (n = 194) ([GBS-ReadDepth.sh]
-* 
+* Make a bamlist for each population
+* Generate a site allele frequency files for each population
+* Generate 1-D site frequency spectrum for each population
+* Incorporate the 1-D SFS into your input file to run Stairwayplot
 
 ## Contemporary patterns of expansion and contraction (*Δθ*)
+* Generate and ancestral fasta file
+* Calculate mean read depth for all gray fox GBS samples (n = 194) ([GBS-ReadDepth.sh]
+* Make a bamlist for each population
+* Generate a site allele frequency files for each population
+* Generate 1-D site frequency spectrum for each population
+* Generate allele frequency posterior probabilities and associated statistics (-dothetas) using the 1-D SFS as a prior
+* Extract thetas (-thetaStat)
 
 ## Contemporary patterns of diversity (*Heterozygosity*)
+* Generate and ancestral fasta file
 * Calculate mean read depth for all gray fox GBS samples (n = 194) ([GBS-ReadDepth.sh]
 * Make a bamlist file for every sample (not a single bamlist with all bamfiles listed)
 * Make an InfoFile.txt with several columns (SampleID, bamlist.txt, meandepth, meandepth x 0.5, meandepth x 2.5)
+* Generate site allele frequency files for all individuals
+* Generate 1-D site frequency spectrum for all individuals
+* Extract SFS results to a summary file 
+
+## Population Structure??? Include this?
 
