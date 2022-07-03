@@ -20,7 +20,7 @@ Population genomics reveals distinct demographic histories among extant gray fox
 
 ## Demographic History
 
-### Infer demographic trajectories using WGS data (PSMC)
+### Infer demographic trajectories using WGS data (*PSMC*)
 * Subset the autosomes [Subset_Autosomes.sh] (Note that you will need to re-index afterwards. See [Index_Autosomes.sh]
 * Calculate mean autosomal depth across all samples [WGSReadDepth.sh]
 * Convert bam files to fastq files [bam2fq_autosomes.sh]
@@ -33,11 +33,11 @@ Population genomics reveals distinct demographic histories among extant gray fox
 * Determine appropriate FNR correction at each downsampled coverage level to recover the "correct" PSMC trajectory
 * Fit a model to these values and apply this model to existing low coverage data. 
 
-### Infer more recent demographic trajectories using the Site Frequency Spectrum derived from GBS Data (Stairwayplot)
+### Infer more recent demographic trajectories using the Site Frequency Spectrum derived from GBS Data (*Stairwayplot*)
 
 
-## Contemporary patterns of expansion and contraction (Δθ)
+## Contemporary patterns of expansion and contraction (*Δθ*)
 
-## Contemporary patterns of diversity (Heterozygosity)
+## Contemporary patterns of diversity (*Heterozygosity*)
 
 
