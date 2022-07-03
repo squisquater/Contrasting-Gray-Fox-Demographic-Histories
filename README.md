@@ -11,7 +11,7 @@ Population genomics reveals distinct demographic histories among extant gray fox
 * Align to reference [Align.sh]
 * Merge (if split) and clean reads [Merge_Clean.sh]
 * Subset X-Chromosome and Autosomes [Subset_Autosomes.sh] & [Subset_XChr.sh] (Note that you will need to re-index afterwards. See [Index_Autosomes.sh] & [Index_XChr.sh])
-* Calculate read depth across samples [ReadDepth.sh]
+* Calculate mean read depth across samples [WGS-ReadDepth.sh]
 
 ## Range Wide Population Structure
 
@@ -34,10 +34,13 @@ Population genomics reveals distinct demographic histories among extant gray fox
 * Fit a model to these values and apply this model to existing low coverage data. 
 
 ### Infer more recent demographic trajectories using the Site Frequency Spectrum derived from GBS Data (*Stairwayplot*)
-
+* Calculate mean read depth for all gray fox GBS samples (n = 194) ([GBS-ReadDepth.sh]
+* 
 
 ## Contemporary patterns of expansion and contraction (*Δθ*)
 
 ## Contemporary patterns of diversity (*Heterozygosity*)
-
+* Calculate mean read depth for all gray fox GBS samples (n = 194) ([GBS-ReadDepth.sh]
+* Make a bamlist file for every sample (not a single bamlist with all bamfiles listed)
+* Make an InfoFile.txt with several columns (SampleID, bamlist.txt, meandepth, meandepth*0.5, meandepth*2.5)
 
