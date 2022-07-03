@@ -14,7 +14,7 @@ Population genomics reveals distinct demographic histories among extant gray fox
 * Calculate mean read depth across samples [WGS-ReadDepth.sh]
 
 ## SNP Calling for GBS Data
-* See (Kierepka et al. (in review))[https://github.com/squisquater/Cryptic-Gray-Fox-Lineages-Secondary-Contact]
+* See [Kierepka et al. (in review)](https://github.com/squisquater/Cryptic-Gray-Fox-Lineages-Secondary-Contact)
 
 ## Demographic History
 
