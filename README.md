@@ -57,4 +57,7 @@ Population genomics reveals distinct demographic histories among extant gray fox
 * Extract SFS results to a summary file 
 
 ## Population Structure??? Include this?
-
+* Subset GBS data to only include autosomes
+* Recode plink files (binary + non-binary format) to include only pure eastern and pure western
+* MDS analysis
+* Admixture analysis
