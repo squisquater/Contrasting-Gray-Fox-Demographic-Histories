@@ -13,7 +13,7 @@
 | S19_4710 | U. cinereoargenteus | East | | 6.45x | This Study |
 | S19_4714 | U. cinereoargenteus | East | | 4.9x | This Study |
 | S19_4737 | U. cinereoargenteus | East | | 6.28x | This Study |
-| S19_6655 | U. cinereoargenteus | East | | 6.0x | This Study |
+| S19_6655 | U. cinereoargenteus | East | | 6.0x/26.17x | This Study |
 | S19_3074 | U. cinereoargenteus | East* | | 5.84x | This Study |
 | S19_4685 | U. cinereoargenteus | East* | | 5.23x | This Study |
 | S19_4692 | U. cinereoargenteus | East* | | 5.57x | This Study |
