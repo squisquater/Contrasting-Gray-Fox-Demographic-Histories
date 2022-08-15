@@ -8,9 +8,9 @@
 #SBATCH -o fq2psmcfa.out
 #SBATCH -e fq2psmcfa.err
 
-/home/hennelly/bin/psmc/utils/fq2psmcfa ../../SanClemente_2009_subset.fq.gz > ../../PSMC_files_new/SanClemente_2009_autosomes.psmc.fa
-/home/hennelly/bin/psmc/utils/fq2psmcfa ../../SanMiguel_2008_subset.fq.gz > ../../PSMC_files_new/SanMiguel_2008_autosomes.psmc.fa
-/home/hennelly/bin/psmc/utils/fq2psmcfa ../../SanNicolas_1929_SE_subset.fq.gz > ~../../PSMC_files_new/SanNicolas_1929_SE_autosomes.psmc.fa
+/home/hennelly/bin/psmc/utils/fq2psmcfa ../../PSMC/final_fqfiles/SanClemente_2009_subset.fq.gz > ../../PSMC_files_new/SanClemente_2009_autosomes.psmc.fa
+/home/hennelly/bin/psmc/utils/fq2psmcfa ../../PSMC/final_fqfiles/SanMiguel_2008_subset.fq.gz > ../../PSMC_files_new/SanMiguel_2008_autosomes.psmc.fa
+/home/hennelly/bin/psmc/utils/fq2psmcfa ../../PSMC/final_fqfiles/SanNicolas_1929_SE_subset.fq.gz > ~../../PSMC_files_new/SanNicolas_1929_SE_autosomes.psmc.fa
 ...
 ...
 ...
