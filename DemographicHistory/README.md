@@ -1,3 +1,5 @@
+
+## PSMC Analaysis
 **STEP0:** Subset autosomes \
 **STEP1:** Convert bam to fastq file \
 **STEP2:** Convert fastq to psmc fasta file \
