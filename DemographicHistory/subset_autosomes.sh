@@ -18,3 +18,10 @@ BAMOUT=../../bam_subset_2/
 module load bedtools
 
 bedtools intersect -abam $BAM -b ${BEDIN} > ${BAMOUT}${SAMPLE}_subset.bam
+
+##bamlist.txt is a file with 5 columns where:
+##column 1 = sampleID
+##column 2 = path to the .bam file
+##column 3 = mean depth (not used in this script)
+##column 4 = mean depth / 2 (not used in this script)
+##column 5 = mean depth * 2 (not used in this script)
