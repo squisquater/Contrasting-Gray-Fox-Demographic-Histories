@@ -10,10 +10,13 @@
 #SBATCH -e bam2fq_autosomes%A_%a.err
 
 echo "My SLURM_ARRAY_TASK_ID: " $SLURM_ARRAY_TASK_ID
+
 SAMPLE=$(sed "${SLURM_ARRAY_TASK_ID}q;d" bamlist_depth.txt | cut -f1)
 BAM=$(sed "${SLURM_ARRAY_TASK_ID}q;d" bamlist_depth.txt | cut -f2)
 MIN_DEPTH=$(sed "${SLURM_ARRAY_TASK_ID}q;d" bamlist_depth.txt | cut -f4)
 MAX_DEPTH=$(sed "${SLURM_ARRAY_TASK_ID}q;d" bamlist_depth.txt | cut -f5)
+
+echo "converting .bam to .fastq for ${SAMPLE}"
 
 module load htslib
 module load samtools
@@ -22,6 +25,10 @@ module load bcftools
 samtools mpileup -Q 30 -q 30 -u -v -f ~/Reference_Genomes/canFam3_withY.fa ${BAM} |
 bcftools call -c |  
 vcfutils.pl vcf2fq -d ${MIN_DEPTH} -D ${MAX_DEPTH} -Q 30 | gzip > ../../PSMC/final_fqfiles/${SAMPLE}.fq.gz
+
+end=`date +%s`
+runtime=$((end-start))
+echo "finished converting ${SAMPLE}.bam to ${SAMPLE}.fastq after ${runtime} seconds"
 
 
 ##bamlist_depth.txt is a file with 5 columns where:
